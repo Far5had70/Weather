@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="space">&#160;</string>
+    <string name="degree">°</string>
+    <string name="city">City</string>
+    <string name="search_your_city">Search City</string>
+</resources>
